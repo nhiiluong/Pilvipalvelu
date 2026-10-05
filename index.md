@@ -23,4 +23,4 @@ Käytän GitHub Flavour Markdown -ominaisuuksia.
 
 ## Koodilohko
 ```bash
-echo "Hello GitHub Pages!"
+echo "Moi Kaikki!"
