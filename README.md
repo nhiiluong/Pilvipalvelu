@@ -1,5 +1,3 @@
-# Pilvipalvelu
-
 # Pilvipalvelu – GitHub Pages -sivu
 
 Tämä sivu on tehty kurssin pilvipalvelu extra tehtävää varten.  
