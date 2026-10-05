@@ -2,8 +2,8 @@
 
 # Pilvipalvelu – GitHub Pages -sivu
 
-Tämä sivu on tehty kurssin Bundle E -tehtävää varten.  
-Käytän GitHub Flavour Markdown -ominaisuuksia.
+Tämä sivu on tehty kurssin pilvipalvelu extra tehtävää varten.  
+Käytän GitHub Flavour Markdown ominaisuuksia.
 
 ## Otsikko ja korostus
 **Tämä on lihavoitu teksti.**  
@@ -25,4 +25,4 @@ Käytän GitHub Flavour Markdown -ominaisuuksia.
 
 ## Koodilohko
 ```bash
-echo "Hello GitHub Pages!"
+echo "Moi kaikki!"
